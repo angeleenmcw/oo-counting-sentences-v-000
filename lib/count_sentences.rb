@@ -19,3 +19,5 @@ class String
     self_array = self.split(/[!?.]/)
     self_array.length
 end
+
+"This, well, is a sentence. This is too!! And so is this, I think? Woo..."
